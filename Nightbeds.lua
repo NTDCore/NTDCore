@@ -622,7 +622,7 @@ Section:NewButton("VapeV4 Script", "7GrandDad", function()
 end)
 local Tab = Window:NewTab("Private")
 local Section = Tab:NewSection("Hub Private")
-Section:NewButton("VapeV4 Script", "NIGHTBED", function()
+Section:NewButton("Noboline Script", "AYO??", function()
     shared.nobolineupdate = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end)
