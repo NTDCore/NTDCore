@@ -1,6 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 
-local lib = loadstring(game:HttpsGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewGuiLibrary.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/NTDCore/NTDCore/main/NewRektskyUiLib.lua"))()
 local entity = loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/Libraries/entityHandler.lua", true))()
 
 do
