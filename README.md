@@ -1,11 +1,7 @@
 ### About me
 Yeah Idk
 
-<br/><a href="https://discord.com/users/1183370716477915259" target="_blank">
-  <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/1183370716477915259" align="middle" alt="Discord Presence">
-  </p>
-</a>
+<a href="https://discord.com/users/1183370716477915259"><img src="https://lanyard.cnrad.dev/api/1183370716477915259?theme=dark&showDisplayName=true&idleMessage=%3Ap" /></a>
 
 <a href="https://github.com/NTDCore">
   <p align="center">
